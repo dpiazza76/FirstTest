@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstTest</string>
+    <string name="Login_Text_Title">Register</string>
+    <string name="Login_Text_UserEmail">Email address</string>
+    <string name="Login_Text_Password">Create password</string>
+    <string name="Login_Btn_Next">Next</string>
+</resources>
